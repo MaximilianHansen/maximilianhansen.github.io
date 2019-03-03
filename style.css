@@ -20,7 +20,9 @@ header hr {
   margin-bottom: 30px; 
 }
 
-.embed
+
+.mc_embed_signup {display:flex;
+justify-content: center;}
 
 .btn {
 	padding: 1em;
