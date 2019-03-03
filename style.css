@@ -12,12 +12,15 @@ body {
   overflow: hidden;
 }
 
-h1 {color: white}
+h1 {background-color: black;
+	color: white}
 
 header hr {
   margin-top: 300px;
   margin-bottom: 30px; 
 }
+
+.embed
 
 .btn {
 	padding: 1em;
